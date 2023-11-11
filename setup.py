@@ -6,5 +6,5 @@ setup(
     author="se49fama",
     author_email="se49fama@fau.de",
     packages=find_packages(),
-    install_requires=["random", "unittest"],
+    install_requires=[],
 )
